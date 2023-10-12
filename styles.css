@@ -73,12 +73,12 @@
     color: red;
     border-radius: 5px;
 }
-.email{
-    color: white;
-    background-color: black;
-    border: white;
-    padding: 10px 15px;
-    margin: 2px;
+
+.sub-email{
+    padding: 5px 1opx;
+    color: aliceblue;
+    background-color: blue;
+    margin-bottom: 5px;
 }
 /* fee-palaistain */
 .filistin{
