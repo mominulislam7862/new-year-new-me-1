@@ -80,5 +80,19 @@
     padding: 10px 15px;
     margin: 2px;
 }
+/* fee-palaistain */
+.filistin{
+    display: flex;
+    background-image: url(images/banner/banner2.png);
+}
+.pic-filistin2{
+    padding: 100px;
+    background: image url(images/gradient2.png);
+
+}
+.pic-filistin2 ul,li {
+    margin-bottom: 10px;
+    font-size: 30px;
+}
 
     
